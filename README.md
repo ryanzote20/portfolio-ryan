@@ -12,8 +12,8 @@ Este projeto foi desenvolvido para apresentar minhas **habilidades**, **projetos
 
 ## 📌 Funcionalidades
 - Página inicial apresentando meu perfil profissional  
-- Seção de projetos com links para demonstrações  
-- Habilidades técnicas detalhadas  
+- Seção de projetos com links para projeções  
+- Habilidades técnicas desenvolvidas  
 - Área de contato para networking  
 
 ## 🌐 Deploy
@@ -23,5 +23,5 @@ O portfólio está disponível online em:
 ## 📬 Contato
 - 📍 Curitiba – PR  
 - ✉️ rv97509513@gmail.com  
-- 🔗 LinkedIn  
-- 🔗 GitHub
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ryan-silva-092694273/)  
+- 🔗 [GitHub](https://github.com/ryanzote20)
