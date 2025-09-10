@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Portfólio – Ryan Victor da Silva de Moraes
 
 Bem-vindo ao meu portfólio! 🚀  
@@ -26,3 +27,6 @@ O portfólio está disponível online em:
 - 🔗 [LinkedIn](https://www.linkedin.com/)  
 - 🔗 [GitHub](https://github.com/SEU-USUARIO)  
 
+=======
+# portfolio-ryan
+>>>>>>> 784d4a9e49d31ca0ab5797036e6f92095db04a32
